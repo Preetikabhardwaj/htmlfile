@@ -1,0 +1,26 @@
+.nav{
+    background-color: rgb(241, 241, 13);
+    width: 100vw;
+    height: 30px;
+    text-decoration: none bolder;
+    display:flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    box-sizing: border-box;
+    padding: 0px 100px;
+    
+}
+a{
+    margin: 0px 20px;
+}
+.red{
+    color: rgb(89, 22, 245);
+    text-decoration: double;
+}
+.yellow{
+    color: rgb(252, 8, 8);
+    text-decoration-color: antiquewhite;
+}
+.to{
+    color: rgb(1, 20, 10);
+}

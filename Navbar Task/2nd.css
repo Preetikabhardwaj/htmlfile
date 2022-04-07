@@ -1,0 +1,23 @@
+.navigation{
+    background-color: rgb(31, 9, 238);
+    width: 100vw;
+    height: 70px;
+    padding: 0px 40px;
+    margin: 0px 40px;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    box-sizing: border-box;
+    
+}
+.white{color: rgb(251, 252, 253);
+
+}
+.head{
+    color: white;
+    font-size: 30px;
+    float: left;
+}
+a{
+    margin: 30px;
+}

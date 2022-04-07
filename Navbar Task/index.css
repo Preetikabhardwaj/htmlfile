@@ -1,0 +1,23 @@
+.nav{
+    background-color: aqua;
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0px 100px;
+    box-sizing: border-box;
+
+}
+a{
+    margin: 0px 20px;
+}
+.black{
+    color: black;
+}
+.white{
+    color: azure;
+}
+.my{
+    color: brown;
+}

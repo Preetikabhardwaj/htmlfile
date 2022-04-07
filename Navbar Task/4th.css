@@ -1,0 +1,29 @@
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 30px;
+    margin: 40px;
+    padding: 0px 35px;
+    background-color: black;
+    width: 100vw;
+}
+li{
+    list-style: none;
+}
+a{
+    padding: 40px;
+    text-decoration: none;
+    color: whitesmoke;
+    display: block;
+    line-height: 30px;
+    font-size: 35px;
+    font-family: serif;
+    border-left: 1px yellowgreen;
+    border-right: 1px green;
+}
+a:hover{
+    background-color: aquamarine;
+    color: bisque;
+}

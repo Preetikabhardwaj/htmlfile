@@ -1,0 +1,25 @@
+.navbar{
+    border: 0px;
+    margin: 0px;
+    background-color: bisque;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+    display: flexbox;
+    background-color: blanchedalmond;
+    display: inline;
+    justify-items: baseline;
+    align-items: baseline;
+    width: 100vw;
+    height: 40px;
+
+}
+a{
+    border: 50px;
+    margin: 40px;
+    padding: 0px 30px;
+    background-color: bisque;
+    text-decoration: none;
+    color:black bold;
+}
